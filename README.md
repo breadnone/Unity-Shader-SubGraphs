@@ -18,8 +18,5 @@ A hue-shifted color variation based on it's world position. The smooth transitio
 # 5. FoliageCustomOcclusion  
 Custom sphere-shaped occlusion to add volumes to foliage based on Ben Cloward's UnrealEngine shader ported to Unity's ShaderGraph.  
 
-# 6. SimpleWind  
-We have this in UE but not in Unity and as the name implies, it's very simple.  
-
-# 7. TrunkWindSway  
+# 6. TrunkWindSway  
 A trunk wind sway based on world origin of a mesh. Requires UV0 at the bottom-center (common for trees/foliage).  
